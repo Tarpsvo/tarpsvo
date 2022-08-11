@@ -1,4 +1,6 @@
-### Hi there 👋
+[![GH Stats](https://github-readme-stats.vercel.app/api?username=tarpsvo&show_icons=true&include_all_commits=true&count_private=true&theme=noctis_minimus&cache_seconds=3600&custom_title=outl1ne%20/%20tarpsvo&hide=stars)](https://github.com/tarpsvo)
+
+![](https://komarev.com/ghpvc/?username=tarpsvo) 
 
 <!--
 **Tarpsvo/tarpsvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
